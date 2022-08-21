@@ -1,19 +1,18 @@
-## Blender Add-on: DiffObj
+## Blender Add-on: Mirroring
 
-Select the different vertices of 2 objects.
+Mirroring the vertices.
 
 ## Installation
 
-- Download https://github.com/SaitoTsutomu/DiffObj/archive/refs/heads/master.zip
+- Download https://github.com/SaitoTsutomu/Mirroring/archive/refs/heads/master.zip
 - Start Blender.
 - Edit menu -> Preferences
   - Select the "Add-ons" tab.
   - Press the "Install ...".
   - Select the downloaded ZIP file and press the button "Install Add-on".
-  - Check the "Object: DiffObj".
+  - Check the "Object: Mirroring".
 
 ## Usage
 
-- Select two objects.
 - Show the sidebar and select the Edit tab.
-- Push "Select Diff 2 Obj".
+- Push "Mirroring".

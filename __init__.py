@@ -6,9 +6,9 @@ bl_info = {
     "version": (0, 1),
     "blender": (3, 2, 0),
     "support": "TESTING",
-    "category": "Object",
+    "category": "Mesh",
     "description": "",
-    "location": "View3D > Object",
+    "location": "Mesh > Mirroring",
     "warning": "",
     "doc_url": "https://github.com/SaitoTsutomu/Mirroring",
 }

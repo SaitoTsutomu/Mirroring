@@ -10,7 +10,7 @@ Mirroring the vertices.
   - Select the "Add-ons" tab.
   - Press the "Install ...".
   - Select the downloaded ZIP file and press the button "Install Add-on".
-  - Check the "Object: Mirroring".
+  - Check the "Mesh: Mirroring".
 
 ## Usage
 

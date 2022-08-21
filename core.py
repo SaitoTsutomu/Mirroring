@@ -67,7 +67,7 @@ class CMI_OT_mirroring(bpy.types.Operator):
     bl_description = "Mirroring the vertices."
     bl_options = {"REGISTER", "UNDO"}
 
-    th: FloatProperty() = FloatProperty(default=0.005, precision=3)  # type: ignore
+    th: FloatProperty() = FloatProperty(default=0.05, precision=3)  # type: ignore
 
     def execute(self, context):
         # BMesh（bm）が使い回されないようにモードを切り替える
